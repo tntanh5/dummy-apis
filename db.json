@@ -1,29 +1,21 @@
 {
-cards: [
-{
-                id: 0,
-                userName: 'Mark Henry',
-                expireDate: moment().add(6, 'm').format('ddd: MM/YY'),
-                cardNumber: Math.floor(100000 + Math.random() * 9000000000000).toString(),
-            },
-            {
-                id: 1,
-                userName: 'Mark Dr. Henry',
-                bgColor: '#536DFF',
-                expireDate: moment().add(1, 'y').format('ddd: MM/YY'),
-                cardNumber: Math.floor(100000 + Math.random() * 9000000000000).toString(),
-            },
-            {
-                id: 2,
-                userName: 'Mark Henry',
-                expireDate: moment().add(2, 'y').format('ddd: MM/YY'),
-                cardNumber: Math.floor(100000 + Math.random() * 9000000000000).toString(),
-            },
-            {
-                id: 3,
-                userName: 'Mark Henry',
-                expireDate: moment().add(5, 'y').format('ddd: MM/YY'),
-                cardNumber: Math.floor(100000 + Math.random() * 9000000000000).toString(),
-            }
-]
+  "cards": [
+    {
+      "id": 0,
+      "userName": "Mark Henry"
+    },
+    {
+      "id": 1,
+      "userName": "Mark Dr. Henry",
+      "bgColor": "#536DFF"
+    },
+    {
+      "id": 2,
+      "userName": "Mark Henry"
+    },
+    {
+      "id": 3,
+      "userName": "Mark Henry"
+    }
+  ]
 }
