@@ -7,7 +7,8 @@
     {
       "id": 1,
       "userName": "Mark Dr. Henry",
-      "bgColor": "#536DFF"
+      "bgColor": "#536DFF",
+      "frozen": true
     },
     {
       "id": 2,
